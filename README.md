@@ -1,0 +1,2 @@
+# Solving a Bandit Problem with MLE and a Bayesian Method
+[This Jupyter notebook](Thompson_Sampling_vs_Epsilon_Greedy.ipynb) compares using an *$\epsilon$-greedy* algorithm an and *Thompson Sampling* to sovle a binomial multi-armed bandit problem. It attempts to show how, in cases where they can be applied, a rigorous probabilistic approach solves the exploration vs. exploitation challenge better than simple heuristics.
